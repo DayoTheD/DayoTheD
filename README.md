@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h2>Data Analyst · ML Engineer · Data Scientist</h2>
+  <p>Building data solutions for business problems</p>
+</div>
 
-<!--
-**DayoTheD/DayoTheD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
+Python · Pandas · Scikit-learn · Matplotlib · Seaborn · SQL · Git · Jupyter · Power BI (learning)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+| Project | Domain | Core skills |
+|---|---|---|
+| [Nigeria Leather Trade Analysis](#) | Trade economics | EDA, pandas, SQL |
+| [UNILAG Cutoff Analysis](#) | Education | EDA, statistics, Power BI |
+| [School Enrollment vs Internet](#) | Dev economics | Correlation, regression |
+| [BRICS Holiday Weather](#) | Climate/travel | Multi-dataset EDA |
+| [Energy Consumption Prediction](#) | Building tech | Regression, feature importance |
+| [Car Price Prediction System](#) | Automotive ML | Full ML pipeline |
